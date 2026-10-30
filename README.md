@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=600&size=50&pause=450&color=C9A961&center=true&vCenter=true&width=1200&height=140&lines=PET+SIMULATOR+99+HACK+SCRIPT+2026;AUTO+FARM+%7C+AUTO+HATCH+%7C+AUTO+RANK;HATCH+THE+HUGEST" alt="Pet Simulator 99 Hack Script 2026" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/aece6e75-1639-421e-affe-ae2702067a17" />
 
 <br/>
 
